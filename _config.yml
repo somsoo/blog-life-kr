@@ -1,0 +1,10 @@
+title: "정부지원금 & 생활 복지 나침반"
+description: "부모급여·육아휴직·근로장려금 지원 조건, 건강보험 급여 혜택 및 공공복지 혜택 가이드."
+url: "https://life-kr.enjoy-onepage.com"
+baseurl: ''
+theme: minima
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
